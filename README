@@ -1,0 +1,89 @@
+# 🛡️ CV de Jean-Luc | Ethical Hacker & Consultant en Cybersécurité
+
+**Titre :** Ethical Hacker Certifié | Consultant en Sécurité des Systèmes d'Information
+
+| Contact & Liens  | Détails                                    |
+| :--------------- | :----------------------------------------- |
+| **Email**        | [inversehacker]                            |
+| **LinkedIn**     | [Lien vers le profil LinkedIn de Jean-Luc] |
+| **GitHub**       | [Lien vers le profil GitHub]               |
+| **Localisation** | [Votre Ville/Région]                       |
+
+---
+
+## 📝 Résumé Professionnel
+
+Professionnel de la sécurité offensive avec **[X] années d'expérience** dans l'identification, la vérification et l'exploitation sécurisée des vulnérabilités. Spécialisé en **Tests d'Intrusion (Web, Réseau, Cloud)**.
+
+Je m'engage à fournir des rapports clairs et exploitables pour renforcer la posture de sécurité des organisations. Mon projet personnel, **Media243**, reflète ma passion pour l'innovation dans les outils de sécurité.
+
+---
+
+## 🏆 Certifications
+
+- **Certified Ethical Hacker (CEH)** – EC-Council
+- **Offensive Security Certified Professional (OSCP)** – Offensive Security (Si obtenue, sinon mettre "En cours/Prévu")
+- **CompTIA Security+**
+
+---
+
+## 🛠️ Compétences Techniques (Hard Skills)
+
+### 🔍 Tests d'Intrusion
+
+- **Web** : OWASP Top 10, Injection SQL, XSS, SSRF, Broken Access Control.
+- **Réseau** : Configuration Audit, Protocol Analysis (ARP, DNS), Segmentation Test.
+- **Outils** : **Burp Suite** (Avancé), Nmap, Metasploit, Nessus, Aircrack-ng.
+
+### 💻 Développement & Scripting
+
+- **Langages** : Python (Automatisation, outils de PoC), Bash/Shell.
+- **Concepts** : Secure Coding Practices, SDLC Security Integration.
+
+### ☁️ Systèmes & Cloud
+
+- **Systèmes** : Kali Linux, Windows Server, Durcissement de systèmes d'exploitation.
+- **Sécurité Cloud** : Principes de sécurité fondamentaux sur AWS / Azure.
+
+---
+
+## 💼 Expérience Professionnelle
+
+### 1. [Poste Actuel/Dernier] - [Nom de l'Entreprise]
+
+- _Période :_ [Mois Année] – Présent (ou [Mois Année] – [Mois Année])
+- **Réalisations Clés :**
+  - Direction technique de **[Nombre]** campagnes de tests d'intrusion par an, avec un taux de succès de correction de **[X]%** des vulnérabilités critiques.
+  - Développement et maintien d'un ensemble de scripts d'audit internes pour accélérer la phase de reconnaissance.
+  - Présentation des risques de sécurité aux équipes de direction.
+
+### 2. [Poste Précédent] - [Nom de l'Entreprise Précédente]
+
+- _Période :_ [Mois Année] – [Mois Année]
+- **Réalisations Clés :**
+  - Participation active aux exercices de "Red Team" et "Blue Team".
+  - Mise en place de systèmes de surveillance des journaux (SIEM) pour détecter les anomalies.
+
+---
+
+## 📚 Formation Académique
+
+### **[Nom du Diplôme]**
+
+- **Institution :** [Nom de l'Université/École] - [Ville, Pays]
+- **Année d'obtention :** [Année]
+- _Spécialisation :_ [Ex: Cybersécurité et Réseaux]
+
+---
+
+## 🔗 Projets Personnels (Media243)
+
+Le projet **Media243** est ma plateforme pour l'innovation et l'expérimentation.
+
+- **Audit-API-Fuzzer (Python)** : Outil personnalisé pour la découverte de chemins et l'injection de charges utiles dans les endpoints d'API.
+- **Labo Virtuel Home-based** : Configuration d'un environnement isolé (VMware/VirtualBox) pour la pratique légale des vulnérabilités (Ex: Machines Hack The Box/TryHackMe).
+  - _Lien de la documentation :_ [Lien]
+
+---
+
+> **Engagement Éthique :** Je respecte scrupuleusement la légalité et l'éthique dans toutes mes activités de sécurité.
