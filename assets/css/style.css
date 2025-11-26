@@ -3737,6 +3737,8 @@ html:not(.open-navi) #navigation .row .col .navigation-inner nav ul li a {
   }
 }
 
+/* index wrapper debut */
+
 [data-barba-namespace=home] .index-header .index-header-img-ct-wrapper {
   overflow: hidden;
   position: relative;
@@ -3754,10 +3756,15 @@ html:not(.open-navi) #navigation .row .col .navigation-inner nav ul li a {
     top: 0;
     right: 0;
     width: 52vw;
+    /* width: 100%; */
     height: 100%;
     z-index: -1;
   }
 }
+
+/* index wrapper fin */
+
+/* index header img debut  */
 
 [data-barba-namespace=home] .index-header .index-header-img-ct {
   position: relative;
@@ -3797,6 +3804,8 @@ html:not(.open-navi) #navigation .row .col .navigation-inner nav ul li a {
     object-fit: cover;
   }
 }
+
+/* index header img fin */
 
 [data-barba-namespace=home] .index-main {
   display: flex;
