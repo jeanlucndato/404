@@ -887,7 +887,7 @@ html {
   background-color: #FCFCFC;
   /* background-color: #EFFFAC; */
 
-  color: #9D9D9D;
+  color: #555555;
   font-family: "Inter", Trebuchet MS, sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -6622,3 +6622,39 @@ html:not(.open-navi) #navigation .row .col .navigation-inner nav ul li a {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+/* --- UI/UX Enhancements --- */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  color: #111111;
+  font-weight: 700;
+}
+
+main section,
+.section-spacer {
+  margin-bottom: 8rem;
+  /* More breathing room */
+}
+
+@media screen and (min-width: 640px) {
+
+  main section,
+  .section-spacer {
+    margin-bottom: 12rem;
+  }
+}
+
+/* Enhanced button hover for premium feel */
+.btn:hover {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
